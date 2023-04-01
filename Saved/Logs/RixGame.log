@@ -794,3 +794,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.01-13.25.45:942][189]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/TetrisUI3_Sprite_0]
 [2023.04.01-13.25.45:948][189]LogSavePackage: Moving '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/TetrisUI3_Sprite_0_Auto32EA371E94BC158506E436DB46D7710E0.tmp' to '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TetrisUI3_Sprite_0_Auto3.uasset'
 [2023.04.01-13.25.45:948][189]LogFileHelpers: Auto-saving content packages took 0.039
+[2023.04.01-13.26.47:469][374]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.04.01-13.26.47:469][374]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2023.04.01-13.30.49:965][590]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV0.png)
+[2023.04.01-13.30.50:069][590]LogTexture: Display: Building textures: TV0 (AutoDXT, 2484X2052)
+[2023.04.01-13.31.06:959][272]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.34.36:701][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.04.01-13.34.37:843][ 97]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.01-13.34.37:919][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.01-13.34.44:445][200]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV0.png)
+[2023.04.01-13.34.44:546][200]LogTexture: Display: Building textures: TV0 (AutoDXT, 2484X2088)
+[2023.04.01-13.34.49:119][250]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV4.png)
+[2023.04.01-13.34.49:122][250]LogTexture: Display: Building textures: TV4 (BGRA8, 168X175)
+[2023.04.01-13.34.54:917][310]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV3.png)
+[2023.04.01-13.34.54:920][310]LogTexture: Display: Building textures: TV3 (BGRA8, 194X174)
+[2023.04.01-13.35.46:528][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.04.01-13.35.46:529][464]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/PuzzleExampleMap' took 0.022
+[2023.04.01-13.35.46:530][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/TV0] ([1] browsable assets)...
+[2023.04.01-13.35.46:535][464]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/TV0.TV0]
+[2023.04.01-13.35.46:535][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/TV0]
+[2023.04.01-13.35.46:535][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/TV0" FILE="../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TV0_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.04.01-13.35.46:566][464]LogSavePackage: Moving '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/TV0_Auto4108B834F4901309896F68AA15A444A57.tmp' to '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TV0_Auto4.uasset'
+[2023.04.01-13.35.46:566][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/TV4] ([1] browsable assets)...
+[2023.04.01-13.35.46:570][464]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/TV4.TV4]
+[2023.04.01-13.35.46:570][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/TV4]
+[2023.04.01-13.35.46:570][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/TV4" FILE="../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TV4_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.04.01-13.35.46:574][464]LogSavePackage: Moving '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/TV4_Auto4BFD14A974C48DB39E496FD8FE25ADF53.tmp' to '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TV4_Auto4.uasset'
+[2023.04.01-13.35.46:575][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sprite/TV3] ([1] browsable assets)...
+[2023.04.01-13.35.46:579][464]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Sprite/TV3.TV3]
+[2023.04.01-13.35.46:579][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sprite/TV3]
+[2023.04.01-13.35.46:579][464]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sprite/TV3" FILE="../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TV3_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2023.04.01-13.35.46:583][464]LogSavePackage: Moving '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/TV3_Auto431C701D74E56D2201B8FADB112BD3C5A.tmp' to '../../../../../../Users/Администратор/Documents/GitHub/RixGame/Saved/Autosaves/Game/Sprite/TV3_Auto4.uasset'
+[2023.04.01-13.35.46:584][464]LogFileHelpers: Auto-saving content packages took 0.055
+[2023.04.01-13.36.31:918][646]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV2.png)
+[2023.04.01-13.36.31:921][646]LogTexture: Display: Building textures: TV2 (BGRA8, 210X182)
+[2023.04.01-13.36.31:927][646]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV5.png)
+[2023.04.01-13.36.31:930][646]LogTexture: Display: Building textures: TV5 (BGRA8, 183X181)
+[2023.04.01-13.36.39:459][714]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Администратор\Desktop\TV1.png)
+[2023.04.01-13.36.39:462][714]LogTexture: Display: Building textures: TV1 (BGRA8, 294X306)
+[2023.04.01-13.36.52:038][173]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.36.52:820][218]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.36.53:504][257]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.36.54:135][293]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.36.55:075][347]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.36.56:427][422]LogSlate: Window 'Extract sprites' being destroyed
+[2023.04.01-13.37.07:149][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.04.01-13.37.08:509][ 18]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.01-13.37.08:578][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.01-13.37.09:790][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.01-13.37.10:981][ 90]LogSlate: Window 'Delete Assets' being destroyed
+[2023.04.01-13.37.11:053][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
