@@ -3,3 +3,8 @@
 /Intermediate
 /Binaries
 /Build
+Content/Blueprints/AddLabel.uasset
+Content/Blueprints/HUD_Testing.uasset
+Content/Blueprints/ShapeTile.uasset
+Content/Blueprints/ShapeTile.uasset
+*.uasset
